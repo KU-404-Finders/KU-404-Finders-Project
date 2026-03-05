@@ -1,2 +1,7 @@
-# KU-404-Finders-Project
-Master Repository
+# 졸업프로젝트
+## 팀 : 404-Finders
+
+* 고현규
+* 최재원
+* 윤재원
+* 채민지
